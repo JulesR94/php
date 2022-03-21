@@ -1,8 +1,8 @@
     <?php include("model/post1.model.php");?>
+
     <?php include("nav.inc.php");?>
        
-        <?php include("header.inc.php");?>
-
+    <?php include("header.inc.php");?>    
         <!-- Post Content-->
         <article class="mb-4">
             <div class="container px-4 px-lg-5">
